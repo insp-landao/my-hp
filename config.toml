@@ -1,4 +1,4 @@
-baseURL = "https://<nome-escolhido>.netlify.com"
+baseURL = "https://my-hp-hugo.netlify.com"
 languageCode = "en-us"
 title = "Noteworthy"
 theme = "noteworthy"
