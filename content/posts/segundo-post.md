@@ -3,12 +3,13 @@ title: "Segundo Post"
 date: 2022-07-24T23:49:48-03:00
 draft: false
 ---
-# Segundo Post.
 
-Criando sites com Hugo e Netlify
 
+# Criando sites com Hugo e Netlify
+
+##### 
 Com o objetivo de incentivar mulheres a criar seu próprio site, obter um novo conhecimento para aplicar em seus trabalhos ou poderem fazer disso uma nova forma de obter renda, no dia 15 de fevereiro de 2020, a comunidade Women Who Go de Curitiba, em parceria com Women Techmakers de Curitiba, ofereceu um workshop para criação de sites estáticos utilizando o framework Hugo.
-
+---
 Hugo é um framework open source desenvolvido em Go, simples de usar e muito rápido para gerar páginas estáticas. Em seu site oficial é possível encontrar centenas de temas prontos para todos os gostos e necessidades.
 
 Hugo Logo, nas cores rosa, azul, verde, amarelo, uma cor para cada letra
