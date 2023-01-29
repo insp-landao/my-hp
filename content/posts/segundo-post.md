@@ -6,7 +6,7 @@ draft: false
 
 
 # Criando sites com Hugo e Netlify
-
+## Editei no dillinger
 ##### 
 Com o objetivo de incentivar mulheres a criar seu próprio site, obter um novo conhecimento para aplicar em seus trabalhos ou poderem fazer disso uma nova forma de obter renda, no dia 15 de fevereiro de 2020, a comunidade Women Who Go de Curitiba, em parceria com Women Techmakers de Curitiba, ofereceu um workshop para criação de sites estáticos utilizando o framework Hugo.
 ---
